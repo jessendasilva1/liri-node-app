@@ -12,6 +12,7 @@ A few things to note to ensure this application works as intended:
 3. Navigate to the cloned repo
 4. Type "node liri.js" without quotes to start the program
 5. Choose from one of the 4 options listed under your terminal to start
+![Alt Text](https://imgflip.com/gif/2shadh)
 
 ## Features
 This LIRI Bot application is able to execute 4 different commands: 
