@@ -28,14 +28,14 @@ This LIRI Bot application is able to execute 4 different commands:
 
 3. movie-this
     - This option allows you to search for a movie and have liri-bot return you the top movie result. 
-    1. Movie title
-    2. Year of the Movie
-    3. IMDB Rating
-    4. Rotten Tomatoes Rating
-    5. Country the movie was produced in
-    6. Language(s) the movie is in
-    7. Quick plot summary
-    8. Actors in the movie
+        1. Movie title
+        2. Year of the Movie
+        3. IMDB Rating
+        4. Rotten Tomatoes Rating
+        5. Country the movie was produced in
+        6. Language(s) the movie is in
+        7. Quick plot summary
+        8. Actors in the movie
     - If you do not enter a movie title, liri-bot will show you its favorite movie of all time
 
 4. do-what-it-says
