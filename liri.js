@@ -168,7 +168,7 @@ function searchSpotify() {
                 var test = JSON.parse(body);
                 // expires in 10 hours (refresh when expired)
                 let accessToken = test.access_token;
-                console.log(accessToken);
+                //console.log(accessToken);
 
                 var options2 = {
                     method: "GET",
@@ -179,7 +179,7 @@ function searchSpotify() {
                 }
 
                 
-                console.log(options2.url);
+                //console.log(options2.url);
                 
                 // Second call that uses the above returned access token to use when searching the API
                 request(options2, function(error, response, body){
