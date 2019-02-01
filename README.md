@@ -1,6 +1,6 @@
 # liri-node-app
 
-## Description
+## What is Liri Bot?
 LIRI Bot node application (Language Interpretation and Recognition Interface) that is able to search for different movies, spotify songs and 
 concerts through a user friendly command line interface. 
 
