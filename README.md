@@ -8,6 +8,8 @@ concerts through a user friendly command line interface.
 A few things to note to ensure this application works as intended: 
 1. Having Nodejs installed on your local machine.
     - Since there is no front-end web interface to this app, node must be installed to be able to execute it on your local machine. 
+    - You will have to generate your own client ID and client secret with spotify and place them in the .env file.        
+    (https://developer.spotify.com/documentation/general/guides/app-settings/)
 2. Git clone this repository to your local machine. "git clone https://github.com/jessendasilva1/liri-node-app.git"
 3. Navigate to the cloned repo
 4. Type "node liri.js" without quotes to start the program
